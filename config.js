@@ -10,7 +10,7 @@ const defaultOwner = '917849917350';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
-const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '254718835933' ; // put your number here
+const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '254708604354' ; // put your number here
 
 const ownerlist = ownervb.split(';');
 
@@ -25,7 +25,7 @@ global.SESSION_ID = process.env.SESSION_ID || 'pHUigICK#ik7LFu90zRa6t7TAx2jGATCJ
 
 global.mods = []
 global.prems = []
-global.allowed = ['254718835933', '918930358452']
+global.allowed = ['254718835933', '254708604354']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
